@@ -79,6 +79,10 @@ li {
     font-size: 17px;
 }
 
+.button1:hover {
+    color:#470182;
+}
+
 .middle2 {
     background-color: #F9FAF8;
     display: flex;
@@ -189,6 +193,10 @@ li {
     font-size: 17px;   
 }
 
+.button2:hover {
+    color:#470182;
+}
+
 .bottom {
     background-color: #470182;
     display: flex;
@@ -204,6 +212,14 @@ li {
     font-weight: 200;
     color:#F9FAF8;
     text-align: center;
+}
+
+.bottomlinks {
+    color:#F9FAF8
+}
+
+.bottomlinks:hover {
+    color:#e4ba0e;
 }
 
 a {
