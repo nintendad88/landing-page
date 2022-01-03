@@ -37,6 +37,10 @@ li {
     width: 1150px;
 }
 
+.toplinks:hover {
+    color: #e4ba0e;
+}
+
 .middle1 {
     background-color: #470182;
     display: flex;
